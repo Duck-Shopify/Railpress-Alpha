@@ -1,4 +1,4 @@
-# Ericksons Admin Interface
+# Railpress Admin Interface
 
 This project is a Ruby on Rails application with a custom WordPress-like admin interface for managing articles, testimonials, services, and more. It utilizes Tailwind CSS for styling and Active Storage for file uploads.
 
