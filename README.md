@@ -29,7 +29,7 @@ Ensure you have the following installed:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/Seggellion/ericksons.git
+   git clone https://github.com/
    cd ericksons
    ```
    
