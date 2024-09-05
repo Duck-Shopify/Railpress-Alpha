@@ -30,7 +30,7 @@ Ensure you have the following installed:
 
    ```bash
    git clone https://github.com/
-   cd ericksons
+   cd railpress-alpha
    ```
    
 2. Install dependencies:
